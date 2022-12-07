@@ -1,0 +1,101 @@
+[
+  {
+    "comment": "Bank",
+    "objectId": 8981,
+    "type": 10,
+    "rotation": 0,
+    "tile": {
+      "x": 3092,
+      "y": 3504,
+      "plane": 0
+    }
+  },
+  {
+    "comment": "Ranged shops",
+    "objectId": 38503,
+    "type": 10,
+    "rotation": 2,
+    "tile": {
+      "x": 3093,
+      "y": 3504,
+      "plane": 0
+    }
+  },
+  {
+    "comment": "Magic shop",
+    "objectId": 38631,
+    "type": 10,
+    "rotation": 2,
+    "tile": {
+      "x": 3094,
+      "y": 3504,
+      "plane": 0
+    }
+  },
+  {
+    "comment": "Melee Gear shop",
+    "objectId": 170,
+    "type": 10,
+    "rotation": 2,
+    "tile": {
+      "x": 3095,
+      "y": 3504,
+      "plane": 0
+    }
+  },
+  {
+    "comment": "Melee Weapon shop",
+    "objectId": 170,
+    "type": 10,
+    "rotation": 2,
+    "tile": {
+      "x": 3096,
+      "y": 3504,
+      "plane": 0
+    }
+  },
+  {
+    "comment": "Rune shop",
+    "objectId": 170,
+    "type": 10,
+    "rotation": 2,
+    "tile": {
+      "x": 3097,
+      "y": 3504,
+      "plane": 0
+    }
+  },
+  {
+    "comment": "Herblore shop",
+    "objectId": 170,
+    "type": 10,
+    "rotation": 2,
+    "tile": {
+      "x": 3098,
+      "y": 3504,
+      "plane": 0
+    }
+  },
+  {
+    "comment": "Skilling shop",
+    "objectId": 170,
+    "type": 10,
+    "rotation": 2,
+    "tile": {
+      "x": 3099,
+      "y": 3504,
+      "plane": 0
+    }
+  },
+  {
+    "comment": "Misc. shop",
+    "objectId": 170,
+    "type": 10,
+    "rotation": 2,
+    "tile": {
+      "x": 3100,
+      "y": 3504,
+      "plane": 0
+    }
+  }
+]

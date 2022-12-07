@@ -1,0 +1,329 @@
+{
+  "name": "Toasted Supplies",
+  "generalStore": true,
+  "buyOnly": false,
+  "currency": 995,
+  "items": [
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  }
+
+  ] 
+}

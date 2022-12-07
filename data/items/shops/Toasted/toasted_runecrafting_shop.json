@@ -1,0 +1,241 @@
+{
+  "name": "Runecrafting Shop",
+  "generalStore": true,
+  "buyOnly": false,
+  "currency": 995,
+  "items": [
+	  {
+		  "item": {
+			  "id": 13649,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 9106,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 7936,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 22332,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 13598,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 13599,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 13600,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 13601,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 13602,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 13603,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 13604,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 13605,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 13606,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 13607,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 13608,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 13609,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 13610,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 13611,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 12158,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 12159,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 12160,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 12161,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 12162,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 12163,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 12164,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 12165,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 12166,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 12167,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 12168,
+			  "amount": 10000
+		  },
+		  "customPrice": 1,
+		  "restockTicks": 0
+	  }
+
+  ] 
+}

@@ -218,7 +218,7 @@ public final class BarrowsController extends Controller {
 		int rolls = Utils.clampI(brothersKilled+1, 1, 7);
 		int equipmentChance = Utils.clampI(450 - (58 * brothersKilled), 73, 450);
 		for (int i = 0;i < rolls;i++) {
-			if ((player.getKilledBarrowBrothers()[i] && rollAdd(container, DropTable.calculateDrops(player, new DropSet(new DropTable(1, equipmentChance, equipment))))) || (points >= 381 && rollAdd(container, DropTable.calculateDrops(player, new DropSet(new DropTable(125, 1012, new Drop(558, 253, 336)))))))
+			if ((player.getKilledBarrowBrothers()[i] && rollAdd(container, DropTable.calculateDrops(player, new DropSet(new DropTable(3, equipmentChance, equipment))))) || (points >= 381 && rollAdd(container, DropTable.calculateDrops(player, new DropSet(new DropTable(125, 1012, new Drop(558, 253, 336)))))))
 				continue;
 			if ((points >= 506 && rollAdd(container, DropTable.calculateDrops(player, new DropSet(new DropTable(125, 1012, new Drop(562, 112, 139)))))) || (points >= 631 && rollAdd(container, DropTable.calculateDrops(player, new DropSet(new DropTable(125, 1012, new Drop(560, 70, 83)))))))
 				continue;

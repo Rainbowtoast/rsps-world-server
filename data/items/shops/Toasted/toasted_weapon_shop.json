@@ -1,0 +1,105 @@
+{
+  "name": "Weapon Shop",
+  "generalStore": true,
+  "buyOnly": false,
+  "currency": 995,
+  "items": [
+	  {
+		  "item": {
+			  "id": 4599,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 6417,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1333,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 4587,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1319,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 7158,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1373,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1377,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 4153,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 1434,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 14484,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 5698,
+			  "amount": 10000
+		  },
+		  "customPrice": -1,
+		  "restockTicks": 0
+	  }
+
+  ] 
+}

@@ -1,0 +1,217 @@
+{
+  "name": "Herblore Shop",
+  "generalStore": true,
+  "buyOnly": false,
+  "currency": 995,
+  "items": [
+	  {
+		  "item": {
+			  "id": 199,
+			  "amount": 10000
+		  },
+		  "customPrice": 50,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 201,
+			  "amount": 10000
+		  },
+		  "customPrice": 20,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 203,
+			  "amount": 10000
+		  },
+		  "customPrice": 100,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 205,
+			  "amount": 10000
+		  },
+		  "customPrice": 650,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 207,
+			  "amount": 10000
+		  },
+		  "customPrice": 5000,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 209,
+			  "amount": 10000
+		  },
+		  "customPrice": 800,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 211,
+			  "amount": 10000
+		  },
+		  "customPrice": 2100,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 213,
+			  "amount": 10000
+		  },
+		  "customPrice": 2600,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 215,
+			  "amount": 10000
+		  },
+		  "customPrice": 2600,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 217,
+			  "amount": 10000
+		  },
+		  "customPrice": 850,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 219,
+			  "amount": 10000
+		  },
+		  "customPrice": 4500,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 221,
+			  "amount": 10000
+		  },
+		  "customPrice": 3,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 15364,
+			  "amount": 10000
+		  },
+		  "customPrice": 3,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 223,
+			  "amount": 10000
+		  },
+		  "customPrice": 600,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 225,
+			  "amount": 10000
+		  },
+		  "customPrice": 600,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 231,
+			  "amount": 10000
+		  },
+		  "customPrice": 300,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 235,
+			  "amount": 10000
+		  },
+		  "customPrice": 280,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 239,
+			  "amount": 10000
+		  },
+		  "customPrice": 300,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 241,
+			  "amount": 10000
+		  },
+		  "customPrice": 50,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 243,
+			  "amount": 10000
+		  },
+		  "customPrice": 900,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 245,
+			  "amount": 10000
+		  },
+		  "customPrice": 960,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 3049,
+			  "amount": 10000
+		  },
+		  "customPrice": 2600,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 3051,
+			  "amount": 10000
+		  },
+		  "customPrice": 5000,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 6693,
+			  "amount": 10000
+		  },
+		  "customPrice": 5200,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 15363,
+			  "amount": 10000
+		  },
+		  "customPrice": 4,
+		  "restockTicks": 0
+	  },
+	  {
+		  "item": {
+			  "id": 592,
+			  "amount": 10000
+		  },
+		  "customPrice": 2,
+		  "restockTicks": 0
+	  }
+
+  ] 
+}
