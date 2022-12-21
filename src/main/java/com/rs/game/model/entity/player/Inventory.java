@@ -189,6 +189,18 @@ public final class Inventory {
 		items.set(item.getSlot(), newItem);
 		refresh();
 	}
+	
+	public void replace(int fromId, int toId) {
+		for (Item item : items.array()) {
+			if (item == null)
+				continue;
+			if (item.getId() == fromId) {
+				item.setId(toId);
+				refresh();
+				return;
+			}
+		}
+	}
 
 	public boolean addCoins(int amount) {
 		if (amount < 0)
@@ -527,7 +539,7 @@ public final class Inventory {
 			numberToDrop = item.getAmount() - items.getFreeSlots();
 			items.add(new Item(item).setAmount(items.getFreeSlots()));
 			player.sendMessage("Not enough space in your inventory.");
-			World.addGroundItem(item.setAmount(numberToDrop), new WorldTile(player.getTile()), player, true, 60);
+			World.addGroundItem(item.setAmount(numberToDrop), WorldTile.of(player.getTile()), player, true, 60);
 			refreshItems(itemsBefore);
 			return true;
 		}
