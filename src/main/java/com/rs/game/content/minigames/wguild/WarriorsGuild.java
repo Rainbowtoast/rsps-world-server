@@ -22,13 +22,13 @@ import com.rs.game.content.combat.AttackStyle;
 import com.rs.game.content.combat.AttackType;
 import com.rs.game.content.combat.PlayerCombat;
 import com.rs.game.content.combat.XPType;
-import com.rs.game.content.dialogue.Conversation;
-import com.rs.game.content.dialogue.Dialogue;
-import com.rs.game.content.dialogue.HeadE;
-import com.rs.game.content.dialogue.impl.Shanomi;
-import com.rs.game.content.dialogue.impl.ShotputD;
-import com.rs.game.content.dialogue.statements.NPCStatement;
 import com.rs.game.content.world.doors.Doors;
+import com.rs.game.content.world.npcs.burthorpe.Shanomi;
+import com.rs.game.content.world.unorganized_dialogue.ShotputD;
+import com.rs.game.engine.dialogue.Conversation;
+import com.rs.game.engine.dialogue.Dialogue;
+import com.rs.game.engine.dialogue.HeadE;
+import com.rs.game.engine.dialogue.statements.NPCStatement;
 import com.rs.game.model.entity.Entity;
 import com.rs.game.model.entity.ForceTalk;
 import com.rs.game.model.entity.Hit;
@@ -299,7 +299,7 @@ public class WarriorsGuild extends Controller {
 						player.faceObject(object);
 						player.endConversation();
 					} else if (ticks == 5) {
-						AnimatedArmor npc = new AnimatedArmor(player, 4278 + finalIndex, object.getTile(), -1, true);
+						AnimatedArmor npc = new AnimatedArmor(player, 4278 + finalIndex, object.getTile());
 						npc.setRun(false);
 						npc.setNextForceTalk(new ForceTalk("IM ALIVE!"));
 						npc.setNextAnimation(new Animation(4166));
